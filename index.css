@@ -15,7 +15,7 @@ body {
 
 .frog {
 	position: relative;
-	background-image: url(/frogbg.png);
+	background-image: url(frogbg.png);
 	width: 750px;
 	height: 450px;
 }
